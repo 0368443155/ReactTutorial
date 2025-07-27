@@ -1,4 +1,4 @@
-# BLUEOC ENTRANCE TEST - TASK 3 DETAIL
+# REACT FORM-API-HOOK-REDUX
 
 # API Endpoint: https://jsonplaceholder.typicode.com/posts
 # Objective: Create a React-Redux app that:
